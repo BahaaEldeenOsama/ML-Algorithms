@@ -1,5 +1,5 @@
 # ML-Algorithms
 
 ## Assignment-1
-### Linear regression Model
-### logistic regression Model (Done)
+#### Linear regression Model
+#### Logistic regression Model (Done)
