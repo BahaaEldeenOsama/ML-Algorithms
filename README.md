@@ -2,7 +2,7 @@
 
 ## Assignment-1
 #### Linear regression Model
-#### Logistic regression Model (Done)
+#### Logistic regression Model 
 
 
 ## Assignment-2
